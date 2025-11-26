@@ -11,12 +11,8 @@ class _FirstPageState extends State<FirstPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar( title: Text("data"),),
-      body: Container(
-        child: Column(
-          children: [],
-        ),
-      ),
+      
+      
     );
   }
 }
